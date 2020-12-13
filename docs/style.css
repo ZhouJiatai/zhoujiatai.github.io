@@ -1,34 +1,39 @@
 body{
-    background-color: ghostwhite;
-    display: block;
+    margin: 0 auto;
+    max-width: 1024px;
+    background-color: white;
 }
 
 .inner{
-    background-color: snow;
+    background-color: floralwhite;
+    padding: 5px 25px 5px;
 }
 
-header{
+a.nav{
+    padding: 10px 45px;
     text-align: center;
+    font-size: 150%;
+    text-decoration-line: none;
+    color: white;
+}
+
+a.now{
+    background-color: saddlebrown;
 }
 
 nav{
-    text-align: center;
-    margin: 4px;
-    font-size: 125%;
+    background-color: brown;
+    padding: 10px 0px;
+    width: 1024px;
 }
 
-nav>a{
-    color: #005d80;
+a{
+    color: darkblue;
     text-decoration-line: none;
-}
-
-.main{
-    padding-left: 30px;
-    padding-right: 30px;
 }
 
 footer{
     text-align: center;
-    margin: 4px;
     font-size: 90%;
+    padding-bottom: 5px;
 }
