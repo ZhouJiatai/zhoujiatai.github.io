@@ -1,0 +1,4 @@
+这是 Zhou Jiatai 的个人网站。
+Copyright (c) 2022 Zhou Jiatai
+如无特殊说明，本作品采用 CC BY-NC-ND 3.0 CN 许可协议进行许可。
+要查看该许可协议，可访问 <http://creativecommons.org/licenses/by-nc-nd/3.0/cn/> 。
